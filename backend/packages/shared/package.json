@@ -1,0 +1,14 @@
+{
+  "name": "@job-automation/shared",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "pg": "^8.23.1"
+  },
+    "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/pg": "^8.23.1"
+  }
+}
